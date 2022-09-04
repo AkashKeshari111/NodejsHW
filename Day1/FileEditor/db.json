@@ -1,0 +1,9 @@
+{
+  "products": [
+    { "id": 1, "title": "Pen", "price": 100 },
+    { "id": 2, "title": "Pencile", "price": 200 },
+    { "id": 3, "title": "Scale", "price": 300 },
+    { "name": "table", "price": 100000, "id": 4 },
+    { "name": "table", "price": 100000, "id": 5 }
+  ]
+}
